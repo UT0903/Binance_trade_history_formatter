@@ -1,0 +1,4 @@
+binance==0.3
+python_binance==1.0.15
+requests==2.27.1
+tqdm==4.63.1
