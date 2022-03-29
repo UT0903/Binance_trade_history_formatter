@@ -38,3 +38,5 @@ python3 my_trade.py
 ![demo1](https://user-images.githubusercontent.com/48646032/160670893-571fb51c-df87-4433-b272-1db475a0de2c.png)
 
 ![demo2](https://user-images.githubusercontent.com/48646032/160670906-17b9bb97-da21-49f6-8f9a-ab504fd7d5ae.png)
+
+![demo](https://user-images.githubusercontent.com/48646032/160673967-f43097bc-5fb2-49f2-b14d-22d60fc2c903.gif)
